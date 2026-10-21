@@ -1,5 +1,5 @@
-﻿window.AUTO_PARTS_CONFIG = {
-    "whatsappNumber": "33753885441",
+window.AUTO_PARTS_CONFIG = {
+    "whatsappNumber": "33752910266",
     "businessName": "AutoParts",
     "defaultLanguage": "fr"
 };
